@@ -11,7 +11,7 @@ Non-linux users, please be aware that this repository is case-sensitive.
 ```bash
 pip3 install fontmake
 pip install ttfautohint-py
-(optionally) [brew](https://brew.sh/) install [fd](https://github.com/sharkdp/fd)
+(optionally) brew install fd
 ```
 
 ## Building
