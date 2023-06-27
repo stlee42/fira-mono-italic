@@ -77222,5 +77222,5 @@ GSDimensionPlugin.Dimensions = {
 };
 };
 versionMajor = 3;
-versionMinor = 111;
+versionMinor = 112;
 }
